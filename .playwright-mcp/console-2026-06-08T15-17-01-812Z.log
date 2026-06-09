@@ -1,0 +1,36 @@
+[    1941ms] [INFO] 框架和 SDK 输出的日志默认不展示，可在框架配置文件中设置开启，详见 https://doc.weixin.qq.com/doc/w3_AWkASAb9APAr8IdJI5VS0OyqetUE6?scode=ANAAyQcbAAgB8qKjm9AWkASAb9APA @ https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/vendor-dynamic.be1c51a7.js:0
+[    2012ms] [LOG] Error @ :2
+[    2063ms] [ERROR] [apm] region is required! @ https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/vendor-dynamic.be1c51a7.js:0
+[    2091ms] [LOG] Error @ :2
+[    2125ms] [LOG] Error @ :2
+[    2133ms] [LOG] Error @ :2
+[    2416ms] [LOG] Error @ :2
+[    2500ms] [LOG] Service Worker registered success with scope: https://www.xiaohongshu.com/ @ https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/index.d7486b9f.js:24
+[    2589ms] [INFO] Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner. @ https://www.xiaohongshu.com/board/6a14734f000000000d029c00:0
+[    2607ms] [ERROR] [loginStatusInterceptor] Response error: HTTPServerError: 无登录信息，或登录信息为空
+    at fulfilled (https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/vendor-dynamic.be1c51a7.js:1:193290)
+    at https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/vendor-dynamic.be1c51a7.js:1:193819 {data: Object, status: 401, statusText: , headers: Object, config: Object} {url: //edith.xiaohongshu.com/api/sns/web/v2/user/me, method: get, headers: Object, transformRequest: Array(1), transformResponse: Array(1)} @ https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/index.d7486b9f.js:24
+[    2682ms] [ERROR] [loginStatusInterceptor] Response error: HTTPServerError: 无登录信息，或登录信息为空
+    at fulfilled (https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/vendor-dynamic.be1c51a7.js:1:193290)
+    at https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/vendor-dynamic.be1c51a7.js:1:193819 {data: Object, status: 401, statusText: , headers: Object, config: Object} {url: //edith.xiaohongshu.com/api/sns/web/v2/user/me, method: get, headers: Object, transformRequest: Array(1), transformResponse: Array(1)} @ https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/index.d7486b9f.js:24
+[    2690ms] [ERROR] [loginStatusInterceptor] Response error: HTTPServerError: 无登录信息，或登录信息为空
+    at fulfilled (https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/vendor-dynamic.be1c51a7.js:1:193290)
+    at https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/vendor-dynamic.be1c51a7.js:1:193819 {data: Object, status: 401, statusText: , headers: Object, config: Object} {url: //edith.xiaohongshu.com/api/sns/web/v1/system/config, method: get, headers: Object, transformRequest: Array(1), transformResponse: Array(1)} @ https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/index.d7486b9f.js:24
+[    2760ms] [ERROR] [loginStatusInterceptor] Response error: HTTPServerError: 无登录信息，或登录信息为空
+    at fulfilled (https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/vendor-dynamic.be1c51a7.js:1:193290)
+    at https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/vendor-dynamic.be1c51a7.js:1:193819 {data: Object, status: 401, statusText: , headers: Object, config: Object} {url: //edith.xiaohongshu.com/api/sns/web/v2/user/me, method: get, headers: Object, transformRequest: Array(1), transformResponse: Array(1)} @ https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/index.d7486b9f.js:24
+[    2910ms] [LOG] Error @ :2
+[    2917ms] [LOG] Error @ :2
+[    3209ms] [LOG] Error @ :2
+[    5163ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    5164ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    5164ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    5164ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    5164ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    5164ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    5164ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    5164ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[  124050ms] [LOG] Error @ :2
+[  124066ms] [LOG] Error @ :2
+[  368968ms] [LOG] {measurement_name: paintTiming, measurement_data: Object} @ https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/vendor-dynamic.be1c51a7.js:0
+[  368970ms] [LOG] {measurement_name: visualStability, measurement_data: Object} @ https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/vendor-dynamic.be1c51a7.js:0

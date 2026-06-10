@@ -18,6 +18,16 @@ updated: 2026-06-09
   - 移除重複的 `炭火烤肉-道頓堀みつる.md`（保留 `-道頓堀總店` 版）
 - 最終健檢：0 斷連、0 孤立、0 frontmatter 缺失
 
+## 2026-06-09 lint
+- 修正 5 個斷連（來源區塊 Reference 檔名不一致）
+  - `美食指南`：`Reference/晉德的大阪行` → `Reference/晉德的大阪行/README`
+  - `DOTONBORI-KUROFUNE`：補齊 `Higashishinsaibashi` 後綴
+  - `Hon-Sekiguchi`：移除副標題
+  - `Yakinikuen-Ningu`：移除括號備註
+  - `板前燒肉一牛`：補齊 `雌牛專門店` 前綴
+- 移除 `index.md` 景點表 5 筆重複列（保留含描述版）
+- 健檢結果：0 斷連、0 孤立、0 frontmatter 缺失
+
 ## 2026-06-08
 - 首次建立 wiki 索引與首批實體頁（景點 6、餐廳 21、區域 4、購物指南 1）
 - 從 Reference/ 與 Clippings/ 提取資訊

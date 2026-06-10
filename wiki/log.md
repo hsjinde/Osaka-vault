@@ -54,3 +54,17 @@ updated: 2026-06-09
 - 建立 `wiki/entities/住宿/大阪心齋橋格蘭多酒店.md`
 - 更新:住宿總覽(加入飯店表格)、心齋橋(交通)、行程規劃(5日確認版)、預算規劃(已確認支出)、打包清單(9月底細化)、index(已確認區塊)
 
+
+## 2026-06-10 11:10（lint 全修）
+- 健康檢查 → 發現 7 類問題，全部修復：
+- 🔴 重複實體頁（刪除 3 檔）：
+  - 刪除 `Gyutan-Charcoal-grilled-YOSHIJI-Unagidani-branch.md`（保留 `Gyutan-YOSHIJI-Unagidani.md`）
+  - 刪除 `Yakinikuen-Ningu-(Yakinikuen忍鬨).md`（保留 `Yakinikuen忍鬨.md`）
+  - 刪除 `Yakiniku-Rikimaru-Nanba-Dotonbori.md`（保留 `燒肉力丸-難波道頓堀店.md`）
+- 🔴 更新 `餐廳總覽.md` 3 個因刪除而斷裂的連結
+- 🟡 `index.md` 景點區塊：補入 5 個孤立景點（海遊館/Harukas300/天王寺動物園/杯麵博物館/木津市場）
+- 🟡 `index.md` 餐廳區塊：移除截斷的個別列表，統一指向 `餐廳總覽`
+- 🟡 `購物指南.md`：統一 4 個 wikilink 為完整路徑格式
+- 🟡 4 個 concepts 頁補齊 frontmatter（tags + source_count）：行程規劃/美食指南/預算規劃/打包清單
+- 🟡 `Hanakujira` / `Hanakujira-honten` 加入互相參照說明（本店 vs 分店）
+- 🟢 `wiki/queries/2026-06-09-osaka-bento-guide.html` 移至 `Clippings/`

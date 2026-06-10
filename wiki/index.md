@@ -43,27 +43,18 @@ updated: 2026-06-10
 | 頁面 | 摘要 | 來源數 |
 |---|---|---|
 | [[wiki/entities/景點/通天閣]] | 大阪地標觀景台，新世界商圈 | 1 |
+| [[wiki/entities/景點/海遊館]] | 天保山巨型水族館，評分 4.5 | 1 |
+| [[wiki/entities/景點/Harukas300展望台]] | 阿倍野 360° 觀景台，評分 4.6 | 1 |
+| [[wiki/entities/景點/大阪市天王寺動物園]] | 市立動物園，日本最古老之一，評分 4.1 | 1 |
+| [[wiki/entities/景點/大阪池田杯麵博物館]] | 即食麵互動博物館，池田市，評分 4.4 | 1 |
+| [[wiki/entities/景點/木津市場]] | 大阪批發市場，新鮮海鮮食材，評分 4.0 | 1 |
 
 ## 餐廳
 
 | 頁面 | 摘要 | 來源數 |
 |---|---|---|
-| [[wiki/entities/餐廳/餐廳總覽]] | 57 間餐廳完整分類總表 | 82 |
-| [[wiki/entities/餐廳/BATTEN-YOKATO-AMERIKAMURA]] | 評分 4.0 | 1 |
-| [[wiki/entities/餐廳/Bakuro]] | 評分 4.4 | 1 |
-| [[wiki/entities/餐廳/Bear-Paw-Cafe]] | 評分 4.5 | 1 |
-| [[wiki/entities/餐廳/CANELE-du-JAPON-Nagahoribashi-Store]] | 評分 4.3 | 1 |
-| [[wiki/entities/餐廳/COBATO-STORE-OSAKA]] | 評分 4.5 | 1 |
-| [[wiki/entities/餐廳/Cobato836]] | 評分 4.1 | 1 |
-| [[wiki/entities/餐廳/DOTONBORI-KUROFUNE]] | 評分 4.9 | 1 |
-| [[wiki/entities/餐廳/Daiki-Suisan-Kaitenzushi-Whity-Umeda]] | 評分 3.8 | 1 |
-| [[wiki/entities/餐廳/Daiko-Sushi-Honten]] | 評分 4.0 | 1 |
-| [[wiki/entities/餐廳/Dekasan]] | 評分 3.8 | 1 |
-| [[wiki/entities/餐廳/Dorajyu]] | 評分 4.3 | 1 |
-| [[wiki/entities/餐廳/GYU-NO-HIGE]] | 評分 4.7 | 1 |
-| [[wiki/entities/餐廳/Gokaitachizushi]] | 評分 4.2 | 1 |
-| [[wiki/entities/餐廳/Gyukatsu-Motomura-LUCUA]] | 評分 4.9 | 1 |
-| [[wiki/entities/餐廳/Gyutan-Charcoal-grilled-YOSHIJI-Shinsaibashi-branch]] | 評分 4.4 | 1 |
+| [[wiki/entities/餐廳/餐廳總覽]] | 57 間餐廳完整分類總表（燒肉/壽司/牛舌/壽喜燒/拉麵等 15 類） | 82 |
+
 
 ## 住宿
 

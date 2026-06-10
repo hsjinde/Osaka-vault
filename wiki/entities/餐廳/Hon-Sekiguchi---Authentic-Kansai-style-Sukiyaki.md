@@ -14,4 +14,4 @@ source_count: 1
 - 備註：創業140多年老字號
 
 ## 來源
-- [[Reference/晉德的大阪行/Hon Sekiguchi - Authentic Kansai-style Sukiyaki]]
+- [[Reference/晉德的大阪行/Hon Sekiguchi]]

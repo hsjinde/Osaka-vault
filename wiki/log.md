@@ -68,3 +68,10 @@ updated: 2026-06-09
 - 🟡 4 個 concepts 頁補齊 frontmatter（tags + source_count）：行程規劃/美食指南/預算規劃/打包清單
 - 🟡 `Hanakujira` / `Hanakujira-honten` 加入互相參照說明（本店 vs 分店）
 - 🟢 `wiki/queries/2026-06-09-osaka-bento-guide.html` 移至 `Clippings/`
+
+## 2026-06-12
+- 消化 `Reference/晉德的大阪行/`：
+  - 新增概念頁：`wiki/concepts/晉德的大阪行推薦.md`
+  - 新增實體頁：`喜三郎農場`、`KANEGURA`、`珈琲専門店-リヴォリ`
+  - 更新 `wiki/index.md` 增加概念頁索引
+  - 更新 `wiki/entities/餐廳/餐廳總覽.md` 加入 3 間新餐廳

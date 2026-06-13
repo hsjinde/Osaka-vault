@@ -13,7 +13,7 @@ source_count: 1
 - 價位：¥2,000-3,000
 
 ## 相關店家
-- 本店：[[wiki/entities/餐廳/Hanakujira-honten|Hanakujira honten]]（同品牌，價位較低）
+- 本店：[[Hanakujira-honten|Hanakujira honten]]（同品牌，價位較低）
 
 ## 來源
 - [[Reference/晉德的大阪行/Hanakujira]]

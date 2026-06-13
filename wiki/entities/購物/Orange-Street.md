@@ -10,7 +10,7 @@ source_count: 1
 ## 基本資訊
 - 類型：商業街（設計師品牌）
 - 評分：3.9
-- 區域：[[wiki/entities/區域/心齋橋|心齋橋]]・南堀江
+- 區域：[[心齋橋|心齋橋]]・南堀江
 
 ## 特色
 - 大阪版的「裏原宿」，聚集約 100 間個性小店
@@ -18,7 +18,7 @@ source_count: 1
 - 適合慢逛，發現隱藏好店
 
 ## 附近商店
-- [[wiki/entities/購物/BIOTOP-OSAKA|BIOTOP OSAKA]]（同區域選品店）
+- [[BIOTOP-OSAKA|BIOTOP OSAKA]]（同區域選品店）
 - [[wiki/entities/購物/YAMASTORE|YAMASTORE]]
 
 ## 交通

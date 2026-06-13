@@ -11,7 +11,7 @@ source_count: 1
 - 類型：服飾選品店
 - 評分：4.0
 - 價位：$$（中高價位）
-- 區域：[[wiki/entities/區域/心齋橋|心齋橋]]・南堀江一帶
+- 區域：[[心齋橋|心齋橋]]・南堀江一帶
 
 ## 特色
 - 匯集日本及海外設計師品牌
@@ -19,7 +19,7 @@ source_count: 1
 - 販售服飾、雜貨、咖啡
 
 ## 相關商店
-- 附近：[[wiki/entities/購物/Orange-Street|Orange Street]]（南堀江設計師街）
+- 附近：[[Orange-Street|Orange Street]]（南堀江設計師街）
 - 商圈：[[wiki/entities/概念/購物指南|購物指南]]
 
 ## 來源

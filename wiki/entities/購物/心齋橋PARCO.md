@@ -10,7 +10,7 @@ source_count: 1
 ## 基本資訊
 - 類型：大型購物商場
 - 評分：4.2
-- 位置：[[wiki/entities/區域/心齋橋|心齋橋]]筋商店街旁
+- 位置：[[心齋橋|心齋橋]]筋商店街旁
 - 樓層：B2–9F
 
 ## 特色
@@ -22,11 +22,11 @@ source_count: 1
 
 ## 推薦樓層
 - 1F：潮牌街頭服飾
-- 4F：生活雜貨、設計小物（含 [[wiki/entities/購物/Paper-Message-Osaka|Paper Message]] 類型品牌）
+- 4F：生活雜貨、設計小物（含 [[Paper-Message-Osaka|Paper Message]] 類型品牌）
 - 9F：展覽・活動空間
 
 ## 相關商店
-- 同商圈：[[wiki/entities/購物/Gachagacha-no-mori-Osaka-Umeda-Chayamachi-Store|扭蛋森林（梅田店）]]
+- 同商圈：[[Gachagacha-no-mori-Osaka-Umeda-Chayamachi-Store|扭蛋森林（梅田店）]]
 
 ## 來源
 - [[Reference/晉德的大阪行/心齋橋PARCO]]

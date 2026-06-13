@@ -2,7 +2,8 @@
 title: 2026 大阪 5 日 — 已確認機加酒行程
 trip_date: 2026-09-30 → 2026-10-04
 status: 已確認
-updated: 2026-06-10
+updated: 2026-06-14
+tags: [query, 行程, 大阪]
 source: ezfly 易飛旅遊
 ---
 

@@ -106,12 +106,18 @@ updated: 2026-06-15
 
 | 頁面 | 摘要 | 來源數 |
 |---|---|---|
+| [[Grand-Front-Osaka]] | 梅田現代購物商場，MUJI 旗艦店、戶外品牌集中 | 1 |
+| [[友都八喜]] | 電子產品與玩具，閉店晚 | 1 |
+| [[LUCUA]] | 日系女裝最全，關西最大 Cosme 美妝集合 | 1 |
+| [[阪急百貨]] | 關西百貨之王，B1 甜點名店林立 | 1 |
+| [[大丸百貨]] | 任天堂 / 寶可夢中心，老舖和菓子 | 1 |
+| [[阪神百貨]] | 美食天堂，與大丸相鄰 | 1 |
 | [[BIOTOP-OSAKA]] | 評分 4.0 | 1 |
 | [[Gachagacha-no-mori-Osaka-Umeda-Chayamachi-Store]] | 評分 4.1 | 1 |
 | [[Orange-Street]] | 評分 3.9 | 1 |
 | [[Paper-Message-Osaka]] | 評分 4.6 | 1 |
-| [[wiki/entities/購物/YAMASTORE]] | 評分 4.5 | 1 |
-| [[wiki/entities/購物/心齋橋PARCO]] | 評分 4.2 | 1 |
+| [[YAMASTORE]] | 評分 4.5 | 1 |
+| [[心齋橋PARCO]] | 評分 4.2 | 1 |
 
 ---
 

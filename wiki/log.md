@@ -100,6 +100,21 @@ updated: 2026-06-09
   - 內容涵蓋：園區地圖、主要設施、Express Pass 6 種方案比較、超級任天堂世界入場須知、購票注意事項
   - 更新 `wiki/index.md` 景點區塊新增 USJ 條目（source_count: 2）
 
+## 2026-06-15
+- 消化 `Clippings/大阪梅田購物攻略與優惠券.md` → 移至 `原始資料/別人行程/`
+- 新增 6 個 wiki 購物實體頁：
+  - `Grand-Front-Osaka`：南北兩館、MUJI 旗艦店、始祖鳥、北面、丸善書店
+  - `友都八喜`：電子產品與玩具、閉店晚
+  - `LUCUA`：LUCUA + LUCUA 1100、Cosme 美妝集合、日系女裝、Montbell
+  - `阪急百貨`：1F 國際大牌、2F 日系美妝、B1 甜點名店（KANAE/然花抄院/Frantz）
+  - `大丸百貨`：6F 任天堂、13F 寶可夢中心、B1 文明堂蜂蜜蛋糕
+  - `阪神百貨`：2F 西太后、B1 美食街
+- 更新 `wiki/entities/區域/梅田.md`：source_count 1→2，補齊 6 個商場 wikilink 與樓層細節
+- 更新 `wiki/concepts/購物指南.md`：source_count 1→2，新增「優惠券合集」章節（7 張優惠券：Alpen/唐吉訶德/大丸松坂屋/EDION/BicCamera/ANA 羽田/ANA 成田）
+- 更新 `wiki/index.md`：購物區塊新增 6 個實體索引
+- 移動剪藏附件：`Clippings/attachments/threads-zsf4315/` → `原始資料/attachments/threads-zsf4315/`（共 11 張圖片），Markdown 中 `../attachments/threads-zsf4315/` 相對路徑在新位置仍有效
+- 觸發關鍵字：使用者要求「消化 @Clippings\大阪梅田購物攻略與優惠券.md」
+
 ## 2026-06-14 01:54（lint 全修）
 - 健康檢查觸發 → 發現 4 類問題，全部修復：
 - 🔴 孤立 wikilink 修復（5 處）：

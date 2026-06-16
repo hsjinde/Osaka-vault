@@ -101,6 +101,13 @@ updated: 2026-06-09
   - 更新 `wiki/index.md` 景點區塊新增 USJ 條目（source_count: 2）
 
 ## 2026-06-15
+
+- 消化 `Clippings/2026日本超商必買清單.md`：
+  - 移動至 `原始資料/餐廳/2026日本超商必買清單.md`
+  - 新增 `wiki/entities/購物/日本超商指南.md`
+    - 內容涵蓋：LAWSON（炸雞君/生乳卷/可麗露/Q彈系列）、FamilyMart（Fami chiki/牛奶的束縛/舒芙蕾布丁）、7-11（炭火燒雞胗/nana chiki/奶油砂糖樹）、隱藏吃法（西西里咖啡特調）
+  - 更新 `wiki/index.md` 購物區塊新增日本超商指南索引
+- 觸發關鍵字：使用者要求「消化 @Clippings\2026日本超商必買清單.md」
 - 消化 `Clippings/大阪梅田購物攻略與優惠券.md` → 移至 `原始資料/別人行程/`
 - 新增 6 個 wiki 購物實體頁：
   - `Grand-Front-Osaka`：南北兩館、MUJI 旗艦店、始祖鳥、北面、丸善書店

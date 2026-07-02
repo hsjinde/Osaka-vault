@@ -16,11 +16,82 @@ tags:
 
 ※折扣與免稅條件依實際店舖公告為準
 
+> [!summary]- 重點整理
+> - **2023 年開幕**，三井 Outlet（2F）+ LaLaport（1F/3F）合體，關西最大規模購物複合設施
+> - **離市區最近的 Outlet**，大阪站/梅田/難波/心齋橋出發約 30-45 分鐘
+> - **全室內型 Outlet**，約 100 家品牌折扣店，常態 5-7 折
+> - **交通**：京阪本線「門真市站」步行 8 分鐘；難波/心齋橋有接駁巴士（單程 ¥500）
+> - **退稅**：滿 ¥5,000 即可辦理，部分店鋪店內退稅、部分集中 1F 櫃檯
+> - **必逛**：黑門市場美食街（1F）、日本最大美食廣場（3F）、屋頂 Logos Coffee
+> - **建議停留**：至少半天～一天
+
+## 基本資訊
+
+| 項目 | 內容 |
+|------|------|
+| 名稱 | LaLaport Kadoma + MITSUI OUTLET PARK Osaka Kadoma |
+| 地址 | 〒571-0031 大阪府門真市松尾町1-11 |
+| 電話 | 06-6780-9100（10:00-18:00） |
+| 營業時間 | 商店 10:00-21:00／美食廣場 10:00-21:00／餐廳 11:00-22:00 |
+| 公休日 | 不定休（依官網公告） |
+| 開幕 | 2023 年 |
+| 停車費 | 每 30 分鐘 200 日圓（消費滿額可折抵） |
+| 官網 EN | https://mitsui-shopping-park.com/mop/osakakadoma/english |
+| 官網 TW | https://mitsui-shopping-park.com/lalaport-mop-kadoma/ |
+
+## 交通方式
+
+### 電車
+- **京阪本線／大阪單軌電車**「門真市站」步行約 8 分鐘
+- 從「大阪站」搭 JR 至「京橋站」，轉京阪本線至「門真市站」
+- 從「梅田／難波／心齋橋」搭地鐵至「天滿橋站」，轉京阪本線至「門真市站」
+
+### 接駁巴士
+- 從 **難波**（難波 Parks Tower 前）與 **心齋橋**（Crysta 長堀地下街南 7 段階梯前）出發
+- 單程 **500 日圓**，不可預約，建議提早 10-15 分鐘排隊
+- 車程約 45 分鐘
+- 班次不多，請注意時刻表
+
+### 自駕
+- 鄰近「門真 IC」（近畿自動車道），國道 163 號／中央環狀線
+- 大型停車場連接 Outlet 與 LaLaport
+
+## 樓層概覽
+
+| 樓層 | 內容 |
+|------|------|
+| 1F | **LaLaport** — 生活雜貨、藥妝、黑門市場美食街、寵物店、無印良品、Loft |
+| 2F | **三井 Outlet** — 約 100 家名牌折扣店（室內型） |
+| 3F | **LaLaport** — 最大美食廣場（16 店）、親子品牌、3C、Yamada、角落生物樂園 |
+| RF | **空廣場（Sora-Hiroba）** — 屋頂兒童遊樂區、Logos Coffee（露營主題咖啡廳） |
+
+## 設施服務
+
+- **免費 Wi-Fi**：SSID「MSP Free Wi-Fi」，全館覆蓋（需註冊 Email）
+- **支付方式**：VISA / JCB / Master / AE / Diners／Alipay／WeChat Pay（部分店鋪可用銀聯）
+- **ATM**：1F 東 B 電扶梯旁（Seven Bank，10:00-21:00）
+- **外幣兌換機**：2F Outlet 西南入口
+- **置物櫃**：1F 中央／1F 西 B 電扶梯／1F Costco 側入口（300-600 日圓）
+- **退稅**：標示 Tax Free 的店家消費滿 5,000 日圓可退稅（部分店鋪店內辦理，部分需至 1F 統一退稅櫃檯）
+- **PIE VAT App**：部分店鋪可使用 App 在遊客服務中心辦理退稅
+- **嬰兒室**：1F-3F 設有兒童廁所與尿布台
+- **免稅店**：Modbell（全日本最大旗艦級規模）
+
+## Outlet 特色
+
+日本少見的**全室內型 Outlet**，不受天氣影響。約 100 家品牌進駐，包含：
+- 國際精品：Coach、Garmin、CK
+- 日系潮流：Urban Research、Nano Universe、Beams
+- 運動品牌：Nike、Puma（常有多件疊加折扣）
+- 常態折扣約 **5-7 折**，日幣低點時部分價格可達台灣 **4-6 折**
+
 ## 實用連結
 
-- 🗺️ 大阪門真地圖：https://mitsui-shopping-park.com/tw/mop/osakakadoma/search/floor2f.html
-- 🏬 大阪門真官網：https://mitsui-shopping-park.com/lalaport-mop-kadoma/
-- 💰 大阪門真免稅店：https://mitsui-shopping-park.com/mop/osakakadoma/tw/tax_free.html
+- 🗺️ 樓層地圖（中文）：https://mitsui-shopping-park.com/tw/mop/osakakadoma/search/floor2f.html
+- 📄 樓層指南 PDF：https://mitsui-shopping-park.com/mop/file/filter/osakakadoma/floor/00003_fo.pdf
+- 🏬 繁體中文官網：https://mitsui-shopping-park.com/lalaport-mop-kadoma/
+- 💰 免稅店列表：https://mitsui-shopping-park.com/mop/osakakadoma/tw/tax_free.html
+- 🌐 英文官網：https://mitsui-shopping-park.com/mop/osakakadoma/english
 
 ## 字幕（Whisper STT 轉錄）
 

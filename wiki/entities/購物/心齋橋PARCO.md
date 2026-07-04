@@ -29,4 +29,4 @@ source_count: 1
 - 同商圈：[[Gachagacha-no-mori-Osaka-Umeda-Chayamachi-Store|扭蛋森林（梅田店）]]
 
 ## 來源
-- [[Reference/晉德的大阪行/心齋橋PARCO]]
+- [[原始資料/景點/心齋橋PARCO]]

@@ -13,4 +13,4 @@ source_count: 1
 - 價位：1000-3000
 
 ## 來源
-- [[Reference/晉德的大阪行/Gokaitachizushi]]
+- [[原始資料/餐廳/豪快立ち寿司]]

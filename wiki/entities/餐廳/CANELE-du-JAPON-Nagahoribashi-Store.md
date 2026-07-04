@@ -14,4 +14,4 @@ source_count: 1
 - 描述：以法式可麗露（Canele）為特色的甜點專賣店。
 
 ## 來源
-- [[Reference/晉德的大阪行/CANELE du JAPON Nagahoribashi Store]]
+- [[原始資料/餐廳/CANELÉ du JAPON Nagahoribashi Store]]

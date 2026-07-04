@@ -14,4 +14,4 @@ source_count: 1
 - 備註：需預約燒鳥omakase
 
 ## 來源
-- [[Reference/晉德的大阪行/Sumibi Yakitori Kibitaki]]
+- [[原始資料/餐廳/Kibitaki]]

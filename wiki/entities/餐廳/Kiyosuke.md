@@ -13,4 +13,4 @@ source_count: 1
 - 備註：黑毛和牛壽喜燒
 
 ## 來源
-- [[Reference/晉德的大阪行/Kiyosuke]]
+- [[原始資料/餐廳/Kiyosuke]]

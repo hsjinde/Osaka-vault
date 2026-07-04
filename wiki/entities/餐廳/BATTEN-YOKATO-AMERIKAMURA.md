@@ -13,4 +13,4 @@ source_count: 1
 - 價位：¥2,000-3,000
 
 ## 來源
-- [[Reference/晉德的大阪行/BATTEN YOKATO AMERIKAMURA]]
+- [[原始資料/餐廳/博多串焼き バッテンよかとぉ アメリカ村店]]

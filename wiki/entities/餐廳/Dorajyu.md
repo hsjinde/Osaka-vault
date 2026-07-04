@@ -14,4 +14,4 @@ source_count: 1
 - 備註：大阪最好吃大阪燒
 
 ## 來源
-- [[Reference/晉德的大阪行/Dorajyu]]
+- [[原始資料/餐廳/Dorajyu]]

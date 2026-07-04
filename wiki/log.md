@@ -158,3 +158,20 @@ updated: 2026-07-04
 - 觸發關鍵字：使用者要求「消化 @Clippings」
 - ⚠️ 待修：index.md 交通區塊既有 `[[周遊券]]`、`[[關西機場]]` 為斷連（對應檔案不存在），本次未處理
 
+## 2026-07-04（lint 全修）
+- 健康檢查（106 頁）→ 發現多類斷連，全部修復：
+- 🔴 **78 個 `[[Reference/晉德的大阪行/…]]` 來源連結全斷**（`Reference/` 已於 2026-06-14 搬至 `原始資料/` 並刪除）：
+  - 逐一比對重接至 `原始資料/{餐廳|景點|別人行程}/` 對應剪藏（77 個 wikilink）
+  - `#にくといえばまつだ`：原始檔名含 `#` 前綴，Obsidian 無法以 wikilink 連結，改純文字路徑
+  - README 3 處 → `原始資料/別人行程/晉德-GoogleMaps-清單`（木津市場改指自身剪藏）
+  - 名稱對應範例：`宮田麵児`→`景點/宮田麺児`(麵→麺)、`弁才天`→`Kakuozan Fruit Daifuku Benzaiten`、`Kobatopankojo`→`Cobatopan-kojo`
+- 🔴 `index.md`：移除交通死連結 `[[周遊券]]`、`[[關西機場]]`（承接上次待修）；修正原始資料位置表過期路徑（`晉德的大阪行-總覽`→`別人行程/晉德-GoogleMaps-清單`）
+- 🔴 **遺失頁重建**：`wiki/entities/購物/日本超商指南.md`（內容佚失，依 `原始資料/餐廳/2026日本超商必買清單.md` 重建，三大超商必買＋2026 熱門＋隱藏吃法）
+- 🔴 路徑錯誤連結：`BIOTOP-OSAKA` `[[wiki/entities/概念/購物指南]]`→`wiki/concepts/購物指南`；`行程規劃` `[[wiki/plans/USJ-2026-1001-行程]]`→`[[wiki/entities/景點/日本環球影城]]`
+- 🔴 `queries/2026-09-30…`：酒店暫存連結→`[[大阪心齋橋格蘭多酒店]]`；移除已佚失的 `[[預算規劃]]`/`[[打包清單]]` 連結；`關西機場`/`周遊券`→純文字/`[[近鐵周遊券]]`
+- 🔴 `大阪地鐵` `[[周遊券]]`→純文字「大阪周遊券（Osaka Amazing Pass）」說明
+- 🟡 7 個幽靈品牌連結轉純文字（`Grand-Front-Osaka`：Arc'teryx/The North Face；`LUCUA`：Lululemon/Beams/Cosme/Ralph Lauren/Montbell）
+- 🟡 孤立頁 `Pokemon-Center-Osaka-DX` → 加入 `index.md` 購物區塊
+- ✅ 最終健檢：**0 斷連**（106 頁全掃描）；孤立僅 `queries/` 歸檔頁（終端頁，可接受）
+- 觸發關鍵字：使用者「lint」
+

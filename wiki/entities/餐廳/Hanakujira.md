@@ -16,4 +16,4 @@ source_count: 1
 - 本店：[[Hanakujira-honten|Hanakujira honten]]（同品牌，價位較低）
 
 ## 來源
-- [[Reference/晉德的大阪行/Hanakujira]]
+- [[原始資料/餐廳/Hanakujira]]

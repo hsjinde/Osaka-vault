@@ -16,8 +16,8 @@ source_count: 1
 
 ### 南館
 - **無印良品旗艦店**（必逛）
-- **4F**：[[Arc'teryx]] 始祖鳥
-- **5F**：[[The North Face]] 北面（梅田最大一家）
+- **4F**：Arc'teryx 始祖鳥
+- **5F**：The North Face 北面（梅田最大一家）
 
 ### 北館
 - **4F**：丸善書店（文具控天堂）

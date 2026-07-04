@@ -14,4 +14,4 @@ source_count: 1
 - 備註：推牛舌套餐
 
 ## 來源
-- [[Reference/晉德的大阪行/Gyutan Charcoal grilled YOSHIJI Unagidani branch]]
+- [[原始資料/餐廳/Gyutan Charcoal grilled YOSHIJI Unagidani branch]]

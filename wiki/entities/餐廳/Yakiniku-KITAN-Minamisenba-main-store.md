@@ -12,4 +12,4 @@ source_count: 1
 - 評分：4.0
 
 ## 來源
-- [[Reference/晉德的大阪行/Yakiniku KITAN Minamisenba main store]]
+- [[原始資料/餐廳/Yakiniku KITAN Minamisenba main store]]

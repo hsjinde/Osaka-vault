@@ -16,15 +16,15 @@ source_count: 1
 
 ### LUCUA（右側）
 - **B1–2F**：生活方式雜貨（必逛：Afternoon Tea LIVING）
-- **2F**：[[Lululemon]]（建議早去，晚了排隊）
-- **3F**：[[Beams]] 潮牌集合地
+- **2F**：Lululemon（建議早去，晚了排隊）
+- **3F**：Beams 潮牌集合地
 
 ### LUCUA 1100（左側，JR 大阪站直達）
-- **3F**：[[Cosme]] 關西最大美妝集合店（貨超全，建議提前做攻略）
+- **3F**：Cosme 關西最大美妝集合店（貨超全，建議提前做攻略）
 
 ### 共通樓層
-- **4F**：Barbour、本土小眾飾品 TEN（款式超好看）、[[Ralph Lauren]] 拉夫勞倫
-- **6F**：[[Montbell]]（貨很全）
+- **4F**：Barbour、本土小眾飾品 TEN（款式超好看）、Ralph Lauren 拉夫勞倫
+- **6F**：Montbell（貨很全）
 - **3–6F**：日系女裝集中地（Snidel、Fray I.D、Mila Owen）
 - **7–9F**：餐廳 + 空中花園（推薦：壽喜燒「はり重」）
 

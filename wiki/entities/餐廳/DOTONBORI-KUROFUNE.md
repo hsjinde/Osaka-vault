@@ -14,4 +14,4 @@ source_count: 1
 - 備註：-
 
 ## 來源
-- [[Reference/晉德的大阪行/DOTONBORI KUROFUNE Higashishinsaibashi]]
+- [[原始資料/餐廳/DOTONBORI KUROFUNE Higashishinsaibashi]]

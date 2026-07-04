@@ -13,4 +13,4 @@ source_count: 1
 - 價位：¥1,000-2,000
 
 ## 來源
-- [[Reference/晉德的大阪行/Oden no den Maki Sennichimae]]
+- [[原始資料/餐廳/Oden no den Maki Sennichimae]]

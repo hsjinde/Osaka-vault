@@ -13,4 +13,4 @@ source_count: 1
 - 價位：¥3,000-5,000
 
 ## 來源
-- [[Reference/晉德的大阪行/Yasaikushimaki Narutoya]]
+- [[原始資料/餐廳/やさい串巻き なるとやAo]]

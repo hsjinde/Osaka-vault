@@ -15,4 +15,4 @@ source_count: 1
 - 描述：寶可夢主題咖啡廳，位於心齋橋，需提前預約。
 
 ## 來源
-- [[Reference/晉德的大阪行/Pokemon Cafe Osaka Shinsaibashi]]
+- [[原始資料/餐廳/寶可夢咖啡廳 大阪心齋橋]]

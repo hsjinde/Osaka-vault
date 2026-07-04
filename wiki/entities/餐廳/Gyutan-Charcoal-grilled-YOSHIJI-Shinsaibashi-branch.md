@@ -13,4 +13,4 @@ source_count: 1
 - 價位：¥2,000-4,000
 
 ## 來源
-- [[Reference/晉德的大阪行/Gyutan Charcoal grilled YOSHIJI Shinsaibashi branch]]
+- [[原始資料/餐廳/Gyutan Charcoal grilled YOSHIJI Shinsaibashi branch]]

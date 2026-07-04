@@ -20,7 +20,7 @@ source_count: 1
 
 ## 相關商店
 - 附近：[[Orange-Street|Orange Street]]（南堀江設計師街）
-- 商圈：[[wiki/entities/概念/購物指南|購物指南]]
+- 商圈：[[wiki/concepts/購物指南|購物指南]]
 
 ## 來源
-- [[Reference/晉德的大阪行/BIOTOP OSAKA]]
+- [[原始資料/景點/BIOTOP OSAKA]]

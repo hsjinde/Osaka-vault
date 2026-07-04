@@ -14,4 +14,4 @@ source_count: 1
 - 備註：爆蔥厚切牛舌很不錯
 
 ## 來源
-- [[Reference/晉德的大阪行/Yakinikuen Ningu]]
+- [[原始資料/餐廳/Yakinikuen Ningu(Yakinikuen忍鬨)]]

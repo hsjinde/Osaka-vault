@@ -14,4 +14,4 @@ TWICE Sana推薦的百年烏冬老店。
 - 備註：TWICE Sana推薦百年烏冬老店
 
 ## 來源
-- [[Reference/晉德的大阪行/Nishiya]]
+- [[原始資料/餐廳/Nishiya]]

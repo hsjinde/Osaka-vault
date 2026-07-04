@@ -15,4 +15,4 @@ source_count: 1
 - 描述：擁有 170 年歷史的關東煮老店。
 
 ## 來源
-- [[Reference/晉德的大阪行/Takoume Honten]]
+- [[原始資料/餐廳/Takoume Honten]]

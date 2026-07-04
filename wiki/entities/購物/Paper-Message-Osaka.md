@@ -26,4 +26,4 @@ source_count: 1
 - 同商圈：[[wiki/entities/購物/心齋橋PARCO|心齋橋 PARCO]]（文具文創樓層）
 
 ## 來源
-- [[Reference/晉德的大阪行/Paper Message Osaka]]
+- [[原始資料/景點/Paper Message Osaka]]

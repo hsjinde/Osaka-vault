@@ -13,4 +13,4 @@ source_count: 1
 - 價位：¥1,000-2,000
 
 ## 來源
-- [[Reference/晉德的大阪行/HARBS 心齋橋Parco店]]
+- [[原始資料/餐廳/HARBS 心齋橋Parco店]]

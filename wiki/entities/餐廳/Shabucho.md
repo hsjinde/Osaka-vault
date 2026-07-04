@@ -13,4 +13,4 @@ source_count: 1
 - 價位：$$
 
 ## 來源
-- [[Reference/晉德的大阪行/Shabucho]]
+- [[原始資料/餐廳/Shabucho]]

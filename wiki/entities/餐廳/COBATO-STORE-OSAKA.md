@@ -12,4 +12,4 @@ source_count: 1
 - 評分：4.5
 
 ## 來源
-- [[Reference/晉德的大阪行/COBATO STORE OSAKA]]
+- [[原始資料/餐廳/COBATO STORE OSAKA]]

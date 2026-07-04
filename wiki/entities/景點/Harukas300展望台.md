@@ -14,4 +14,4 @@ source_count: 1
 - 位置：大阪天王寺
 
 ## 來源
-- [[Reference/晉德的大阪行/Harukas 300]]
+- [[原始資料/景點/Harukas300展望台]]

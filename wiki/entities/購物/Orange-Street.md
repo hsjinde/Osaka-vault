@@ -25,4 +25,4 @@ source_count: 1
 - 地鐵長堀鶴見緑地線「西大橋站」步行 5 分
 
 ## 來源
-- [[Reference/晉德的大阪行/Orange Street]]
+- [[原始資料/景點/Orange Street]]

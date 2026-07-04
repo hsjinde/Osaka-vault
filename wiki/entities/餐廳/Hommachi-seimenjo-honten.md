@@ -13,4 +13,4 @@ source_count: 1
 - 備註：超高性價比米其林推薦
 
 ## 來源
-- [[Reference/晉德的大阪行/Hommachi-seimenjo honten]]
+- [[原始資料/餐廳/Hommachi-seimenjo honten]]

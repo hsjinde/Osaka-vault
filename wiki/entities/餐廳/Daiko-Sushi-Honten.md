@@ -13,4 +13,4 @@ source_count: 1
 - 價位：1000-2000
 
 ## 來源
-- [[Reference/晉德的大阪行/Daiko Sushi Honten]]
+- [[原始資料/餐廳/大興壽司 本店]]

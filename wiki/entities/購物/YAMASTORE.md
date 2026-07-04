@@ -22,4 +22,4 @@ source_count: 1
 - 同街：[[Orange-Street|Orange Street]]
 
 ## 來源
-- [[Reference/晉德的大阪行/YAMASTORE]]
+- [[原始資料/景點/YAMASTORE]]

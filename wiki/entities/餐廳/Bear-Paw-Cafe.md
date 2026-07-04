@@ -13,4 +13,4 @@ source_count: 1
 - 價位：1-1000
 
 ## 來源
-- [[Reference/晉德的大阪行/Bear Paw Cafe]]
+- [[原始資料/餐廳/Bear Paw Cafe]]

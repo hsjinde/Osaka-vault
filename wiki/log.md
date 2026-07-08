@@ -210,3 +210,16 @@ updated: 2026-07-04
 - 圖片下載至 `assets/交通/`：`大阪地鐵-路線圖.gif`、`近鐵周遊券-範圍地圖.png`、`南海Rapit-路線圖.png`、`南海Rapit-列車外觀.jpg`
 - 更新 3 頁的 `updated`/`source_count` 及來源區塊
 - 觸發關鍵字：使用者要求「幫我把圖片都查出來附上」
+
+## 2026-07-08
+- 消化 `原始資料/別人行程/晉德-GoogleMaps-清單.md`（該清單已於 2026-07-08 由來源更新，地點數由 82 → 127，經比對找出 36 個尚無 wiki 實體頁的地點）：
+  - 新增 27 個餐廳實體頁：Chuka-Soba-Kirimen-Sohonten、Datedachi、Fukuoka-Udon、Grill-Lamp-tei、Higekatsu、Horumon-Yakiniku-Mansen、Hozenji-Yamakazu、LOUTRE水獭咖啡馆（京都店）、M-Casse、Mamemono-to-Taiyaki-Arashiyama-Honten、Nonkiya、Okonomiyaki-Ponpoco-tei-MINAMI-Shimanochi、Onimaru、Panel-Cafe-Kyoto、Paris-h、SHAKE-SHACK-京都四條烏丸店、Sakana-no-ISHISAKA、Toyo、WEEKENDERS-COFFEE-ROASTERY、YAKINIKU-PONGA-SHINSAIBASHI、Niku-no-Asatsu Umeda Ohatsu Tenjin（涮涮鍋/壽司/壽喜燒）、ÉCHIRÉ-Marché-au-Beurre、利久牛舌×2分店、南一園燒肉、壽喜燒．火鍋 Nabeya、大阪燒 美津の、月盗、炭火焼 鳥清 東心斎橋店、燒肉之牛太 本陣LINKS UMEDA店、稻荷烏龍麵始祖 松葉屋、章魚家道頓堀KUKURU 道頓堀總店、華家、鰻魚飯 う桶や う
+    - 其中 `Niku-no-Asatsu Umeda Ohatsu Tenjin` 已有既存原始剪藏（`原始資料/餐廳/Shabu-shabu & Sukiyaki & Sushi Restaurant Niku-no-Asatsu Umeda Ohatsu Tenjin.md`），其餘來源直接指向 GoogleMaps 清單（無獨立剪藏）
+    - `Hozenji-Yamakazu`、`Okonomiyaki-Ponpoco-tei-MINAMI-Shimanochi`、`壽喜燒．火鍋 Nabeya`、`大阪燒 美津の`、`炭火焼 鳥清 東心斎橋店`、`章魚家道頓堀KUKURU`、`華家`、`鰻魚飯 う桶や う`、`LOUTRE水獭咖啡馆` 等 9 筆為既有清單早已收錄但先前消化時遺漏的缺口，一併補齊
+  - 新增 3 個景點實體頁：任天堂博物館（京都宇治）、楠珺社、露天神社
+  - 新增 6 個購物實體頁：AENA-Namba-Walk-Sanbangai-Kita-dori、アエナ なんばウォーク3番街南通り店（南北通り姊妹店互相參照）、DEAL-DESIGN-大阪店、Daikoku-Locker、SNKRDUNK-OSAKA-MINAMIHORIE、購物中心-HEP-FIVE
+  - 更新 `wiki/entities/餐廳/餐廳總覽.md`：新增「立吞/居酒屋」分類，各分類補入新餐廳，source_count 82→127，實際餐廳數 57→94
+  - 更新 `wiki/concepts/晉德的大阪行推薦.md`：地點數 82→127，補充京都延伸地點與新分類說明
+  - 更新 `wiki/index.md`：餐廳總覽/晉德的大阪行推薦 source_count 同步、新增 3 個景點與 4 個購物實體頁索引列
+  - `Osaka Dojimahama Tower`（清單新條目）已由既有 `wiki/entities/景點/堂島濱塔.md` 涵蓋，未重複建立
+- 觸發關鍵字：使用者要求「整理並消化 @原始資料/別人行程/晉德-GoogleMaps-清單.md」

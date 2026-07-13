@@ -223,3 +223,9 @@ updated: 2026-07-04
   - 更新 `wiki/index.md`：餐廳總覽/晉德的大阪行推薦 source_count 同步、新增 3 個景點與 4 個購物實體頁索引列
   - `Osaka Dojimahama Tower`（清單新條目）已由既有 `wiki/entities/景點/堂島濱塔.md` 涵蓋，未重複建立
 - 觸發關鍵字：使用者要求「整理並消化 @原始資料/別人行程/晉德-GoogleMaps-清單.md」
+
+## 2026-07-13
+- 整理 `Clippings/Post by @roolez553 on Threads.md`：內容為他人整理的「大阪一日遊路線9種排法」（9種一日遊組合＋留言區eSIM/行動電源等業配連結），依分類標準屬「別人的行程/他人攻略」
+  - 移動並重新命名至 `原始資料/別人行程/大阪一日遊路線9種排法（roolez553）.md`
+  - `Clippings/` 已清空，移除該暫存目錄
+- 觸發關鍵字：使用者要求「整理 @Post by @roolez553 on Threads 並重新命名檔案」

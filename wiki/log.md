@@ -274,3 +274,12 @@ updated: 2026-07-14
 - `.gitignore` 新增 `.env`、`.env.*`（環境變數與憑證不進版控）
 - 連結驗證：周遊券頁 10 個 wikilink 全數可解析，0 斷連
 - 觸發關鍵字：使用者要求「下載到資料夾 並把 .env 寫進 gitignore」
+
+## 2026-07-14（R2 圖床同步）
+- 9 張圖上傳至 R2 `core-pulse-assets`／`osaka/guides/threads-travelplanner-asia/image_01–09.jpg`（透過 cloudflare-use skill）
+- 過程中發現並修正**兩處自造的不一致**（均已對齊 vault 既有慣例）：
+  - R2 key 初次誤用 `osaka/transit-passes-travelplanner-asia/`，與既有剪藏圖慣例 `osaka/guides/<slug>/`（threads-post、threads-zsf4315）不符 → 重傳至 guides/ 並刪除誤傳的 9 個物件
+  - 本地圖片初次誤放根目錄新建的 `attachments/`，與既有慣例 `assets/<slug>/`（threads-post、交通）不符 → 移至 `assets/threads-travelplanner-asia/`，檔名對齊 R2 key（`image_NN.jpg`），並移除多餘的 `attachments/` 目錄
+- `wiki/entities/交通/周遊券.md` 內嵌圖改為 `![[assets/threads-travelplanner-asia/image_08.jpg]]`（用全路徑：`原始資料/attachments/threads-zsf4315/` 已有同名 `image_05.jpg`，短路徑將來會歧義）
+- ⚠️ 待使用者確認：R2 `osaka/entities/` 底下 6 個 hash 檔名物件（2026-07-14 15:44 上傳）與 `osaka/entities/交通/` 6 檔大小完全相同，疑似同一批圖重複上傳；未擅自刪除
+- 觸發關鍵字：使用者選擇「把 9 張圖上傳到 R2」

@@ -260,3 +260,17 @@ updated: 2026-07-14
 - 更新 `wiki/index.md`：周遊券列來源數 0→1、摘要同步
 - `Clippings/` 已清空（保留空目錄供 Obsidian Web Clipper 落地）
 - 觸發關鍵字：使用者要求「整理並且消化 @Clippings 重新命名該檔」
+
+## 2026-07-14（補完：圖片下載與圖卡內容消化）
+- 下載該剪藏的 9 張輪播圖（Instagram CDN，合計 1.1 MB）至 `attachments/交通票券-travelplanner_asia/01.jpg`–`09.jpg`，解決上一輪「比較表在圖片中、無法消化」的缺口
+- 完整消化圖卡內容，重寫 `wiki/entities/交通/周遊券.md`：
+  - 新增「六大票券速覽」（ICOCA／Welcome ICOCA、Osaka Amazing Pass、Osaka Metro Pass、JR Kansai Area Pass、Kansai Railway Pass、機場票券）
+  - 新增「功能比較總表」（7 票種 × JR／地鐵／私鐵／市巴士／HARUKA／景點門票）與「我該買哪一張」選擇指南
+  - 內嵌第 8、9 張關鍵圖卡
+- 標注 3 項來源疑點，未當作事實寫入：
+  1. 圖卡自述資料日期為 2024-05，已逾兩年
+  2. 作者留言稱「地區版可到鳥取」，與**同一份圖卡**畫的適用範圍（僅到和歌山／奈良，無鳥取）自相矛盾；鳥取應屬廣域版
+  3. Kansai Railway Pass 能否搭地鐵，第 6 張與第 8 張說法不一
+- `.gitignore` 新增 `.env`、`.env.*`（環境變數與憑證不進版控）
+- 連結驗證：周遊券頁 10 個 wikilink 全數可解析，0 斷連
+- 觸發關鍵字：使用者要求「下載到資料夾 並把 .env 寫進 gitignore」

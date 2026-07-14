@@ -1,6 +1,12 @@
 {
   "version": 1,
   "skills": {
+    "cloudflare-use": {
+      "source": "hsjinde/cloudflare-use-skill",
+      "sourceType": "github",
+      "skillPath": "cloudflare-use/SKILL.md",
+      "computedHash": "6b5c954bb123497833a9f573f82ddf12d3505e23ce85055ec973ab82ed89f928"
+    },
     "tavily-best-practices": {
       "source": "tavily-ai/skills",
       "sourceType": "github",

@@ -7,7 +7,9 @@
 ## 🛠 工具與協作
 
 - AI 優先讀寫 `wiki/` 目錄下的檔案
-- `原始資料/` 為 Obsidian 插件匯入的剪藏，AI 唯讀不修改
+- `原始資料/` 為剪藏，AI 唯讀不修改其文字內容。唯一例外：AI 自建的剪藏，可將其中的圖片連結由本地路徑改為 R2 網址
+- 圖片一律上 R2（bucket `core-pulse-assets`、前綴 `osaka/`），vault 內只寫 `https://img.19980803.xyz/<key>`，不存圖檔本身
+- R2 的 key 必須全 ASCII 且具描述性（如 `osaka/entities/transit/jr-haruka-route-map.jpg`）：該網域的 Worker 未 decode URL，中文 key 一律 404；也不要用雜湊檔名
 - 跨檔修改前先確認影響範圍，避免覆蓋既有筆記
 
 ## 📁 目錄與知識架構

@@ -2,9 +2,9 @@
 
 > 來源：小紅書（Xiaohongshu）用戶「卡比卡比」／ 原帖短網址 http://xhslink.com/o/1SKvd7FDNdJ
 > 為輪播圖第 1/5 張（地圖路線圖）。截圖時數據：收藏 5011 ／ 讚 2666 ／ 留言 38
-> 路線圖本地副本：`assets/中崎町/中崎町citywalk路線圖.png`
+> 路線圖（R2）：https://img.19980803.xyz/osaka/guides/nakazakicho-citywalk/route-map.png
 
-![中崎町 citywalk 路線圖](assets/中崎町/中崎町citywalk路線圖.png)
+![中崎町 citywalk 路線圖](https://img.19980803.xyz/osaka/guides/nakazakicho-citywalk/route-map.png)
 
 ## 作者對中崎町的描述
 中崎町真的太好逛了！文藝得不像大阪，一個又一個可愛的小店和門面都太好拍，太好逛了。晴天來五彩斑斕，雨天來充滿意境。因為店很多，所以我也研究了路線。

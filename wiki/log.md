@@ -305,4 +305,8 @@ updated: 2026-07-14
   - 新建 `wiki/entities/區域/中崎町.md`：收錄環狀 citywalk 路線（中崎町站 4 號口→1 號口，14 個打卡點）、交通、與 `[[梅田]]`/`[[neel-nakazakicho]]` 交叉連結
   - 更新 `wiki/index.md` 區域區塊新增中崎町索引列（source_count: 1）
 - 觸發關鍵字：使用者於 Discord 貼「加入大阪行程參考攻略」並附中崎町 citywalk 路線圖
+- 2026-07-16（補完：路線圖上傳 R2 換絕對網址）
+  - 上傳 `Osaka-vault/assets/中崎町/中崎町citywalk路線圖.png` → R2 `core-pulse-assets`／`osaka/guides/nakazakicho-citywalk/route-map.png`
+  - 將兩處 `assets/中崎町/...` 本地相對路徑改為絕對網址 `https://img.19980803.xyz/osaka/guides/nakazakicho-citywalk/route-map.png`（原始剪藏 `（卡比卡比）.md` 的圖說與嵌入）；curl 驗證 HTTP 200 / image/png / 2.25MB
+  - 觸發關鍵字：DeLin 於 Discord 要求「更新圖片網址」
 - ⚠️ 限制：原帖為 5 張輪播，僅取得第 1 張路線圖；店家實拍與詳細評分未取得，路線頁僅能列名稱與已知類別（咖啡/和果子/二手衣/糕點）

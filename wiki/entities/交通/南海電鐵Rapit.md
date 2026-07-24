@@ -7,7 +7,7 @@ source_count: 2
 
 關西機場（KIX）往返大阪難波的機場特急列車，由南海電鐵營運（50000 系車型），最快約 **34 分鐘**直達 [[難波]]，全車指定席。
 
-![[南海Rapit-列車外觀.jpg]]
+!![南海 Rapit 列車外觀](https://img.19980803.xyz/osaka/entities/transit/nankai-rapit-train.jpg)
 *南海電鐵特急 Rapi:t 列車外觀（圖片來源：南海電鐵官網）*
 
 ## 基本資訊
@@ -23,7 +23,7 @@ source_count: 2
 
 全停靠站：關西機場 → 臨空城 → 泉佐野 → 岸和田 → 堺 → 天下茶屋 → 新今宮 → 難波
 
-![[南海Rapit-路線圖.png]]
+!![南海 Rapit 路線圖](https://img.19980803.xyz/osaka/entities/transit/nankai-rapit-route-map.png)
 *特急 Rapi:t β 停靠站路線圖（圖片來源：南海電鐵官網）*
 
 ## 票價

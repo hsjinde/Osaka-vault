@@ -13,7 +13,7 @@ JR西日本營運的關西機場特快列車，連結關西機場（KIX）與天
 - 座位：指定席＋自由席（自由席通常為 4–6 號車廂），設大型行李專放區
 - 車型常有 Hello Kitty 彩繪塗裝
 
-![[JR-HARUKA-路線圖.jpg]]
+!![JR-HARUKA 路線圖](https://img.19980803.xyz/osaka/entities/transit/jr-haruka-route-map.jpg)
 *HARUKA 停靠站與路線圖（圖片來源：來一球叭噗 gototravel.tw）*
 
 ## 所需時間

@@ -14,7 +14,7 @@ JR西日本營運的關西機場快速列車，票價比 [[JR-HARUKA關空特急
 - 行駛路線：關西空港線 → 阪和線 → 大阪環狀線，經由天王寺後繞行大阪環狀線至京橋
 - 與「紀州路快速」在日根野站併結／分離運行（合稱「關空・紀州路快速」）
 
-![[JR關空快速-路線圖.jpg]]
+!![JR關空快速 路線圖](https://img.19980803.xyz/osaka/entities/transit/jr-kanku-rapid-route-map.jpg)
 *JR 關空快速停靠站與路線圖（圖片來源：來一球叭噗 gototravel.tw）*
 
 ## 主要停靠站

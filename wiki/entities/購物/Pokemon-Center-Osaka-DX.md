@@ -20,4 +20,4 @@ source_count: 0
 
 ## 相關地點
 - [[大丸百貨]]
-- [[心齋橋PARCO]]（緊鄰大丸心齋橋店）
+- [[wiki/entities/購物/心齋橋PARCO|心齋橋PARCO]]（緊鄰大丸心齋橋店）

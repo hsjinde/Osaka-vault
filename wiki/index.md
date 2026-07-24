@@ -1,5 +1,7 @@
 ---
 title: Wiki 索引
+tags: [索引, Osaka]
+source_count: 159
 updated: 2026-07-17
 ---
 
@@ -49,6 +51,8 @@ updated: 2026-07-17
 | [[交通票券攻略]] | 本行程該買哪張票的決策頁（結論：ICOCA ＋ 南海來回即可，不需周遊券） | 1 |
 | [[美食指南]] | 必吃分類完整指南 | 0 |
 | [[購物指南]] | 4大商圈攻略（梅田/心齋橋/難波/天王寺） | 1 |
+| [[預算規劃]] | 5 天 4 夜行程預算估算與支出記錄 | 1 |
+| [[打包清單]] | 行前隨身與行李箱檢查清單 | 1 |
 
 ### 📚 參考資料（別人的行程/攻略，僅供日後規劃參考）
 
@@ -130,8 +134,8 @@ updated: 2026-07-17
 | [[Gachagacha-no-mori-Osaka-Umeda-Chayamachi-Store]] | 評分 4.1 | 1 |
 | [[Orange-Street]] | 評分 3.9 | 1 |
 | [[Paper-Message-Osaka]] | 評分 4.6 | 1 |
-| [[YAMASTORE]] | 評分 4.5 | 1 |
-| [[心齋橋PARCO]] | 評分 4.2 | 1 |
+| [[wiki/entities/購物/YAMASTORE\|YAMASTORE]] | 評分 4.5 | 1 |
+| [[wiki/entities/購物/心齋橋PARCO\|心齋橋PARCO]] | 評分 4.2 | 1 |
 | [[日本超商指南]] | 三大超商必買清單、隱藏吃法、2026 熱門商品 | 1 |
 | [[門真三井Outlet\|三井 Outlet 大阪門真]] | 關西最大室內型 Outlet+LaLaport，市區最近 | 1 |
 | [[購物中心-HEP-FIVE\|購物中心 HEP FIVE]] | 梅田地標，紅色摩天輪商場，評分 4.3 | 1 |

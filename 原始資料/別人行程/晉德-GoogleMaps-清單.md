@@ -1,7 +1,7 @@
 # 晉德的大阪行 — 景點總覽
 
 > 來源：路雯涵分享的 Google Maps 清單「晉德的大阪行」
-> 資料更新日期：2026-07-08
+> 資料更新日期：2026-09-07
 
 ---
 
@@ -154,4 +154,4 @@
 
 ---
 
-> 原始 Google Maps 清單：[晉德的大阪行](https://maps.app.goo.gl/1buM7TddR1UDWYTM6)
+> 原始 Google Maps 清單：[晉德的大阪行](https://maps.app.goo.gl/MBLH2xxdWgXpmKfz8)

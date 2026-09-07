@@ -317,3 +317,12 @@ updated: 2026-07-14
 - 特別標注：勝尾寺與箕面瀑布之間無巴士、步行約 1 小時，不建議串聯硬走
 - 更新 `wiki/index.md`：景點區塊新增勝尾寺索引列，frontmatter updated → 2026-07-17
 - 觸發關鍵字：使用者要求「新增勝尾寺（達摩寺）攻略」
+## 2026-09-07 - 更新 Google Maps「晉德的大阪行」清單與實體
+
+- **觸發來源**：更新 Google Maps 清單（https://maps.app.goo.gl/MBLH2xxdWgXpmKfz8）
+- **操作內容**：
+  - 更新 `原始資料/別人行程/晉德-GoogleMaps-清單.md`，擴充至完整 159 筆推薦地點
+  - 在 `wiki/entities/餐廳/` 新增 15 篇實體筆記（麦と麺助、BOTANI:CURRY、播重本店、播重洋食館、香川烏龍麵、鶴屋、漁火、馬込、OBRA、Starbucks Teavana、grenier 等）
+  - 在 `wiki/entities/景點/` 新增 2 篇實體筆記（空堀商店街、お初天神裏參道）
+  - 在 `wiki/entities/購物/` 新增 17 篇實體筆記（KOMEHYO、AMONA、BRAND OFF、ALLU、STIQ STORE、難波CITY、LINKS UMEDA、OS Drug、玉出超市、Alpen Outdoors 等）
+  - 更新 `wiki/entities/餐廳/餐廳總覽.md` 與 `wiki/concepts/晉德的大阪行推薦.md`
